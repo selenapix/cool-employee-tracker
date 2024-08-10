@@ -7,6 +7,7 @@ With this application, it makes it easy for a business owner to organize employe
 
 
 ## Screenshot
+![Screenshot 2024-08-10 at 6 04 42 PM](https://github.com/user-attachments/assets/90fa7859-ea11-4a52-9922-40075a9cae7d)
 
 
 
